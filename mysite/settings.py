@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'nnxwh*_1eyh$m3fe7tn2@i2fev9mgj=dp9^drd-^56c&5l*wa-'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['https://akashcv.herokuapp.com',
                  '127.0.0.1:8000', 'localhost', '127.0.0.1']
